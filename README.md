@@ -7,3 +7,9 @@ So, first I begin by finding useful UI Designs for an basic idea of what should 
 
 After preview of different random UI designs, I have something in my brain but won't be wasting my time creating the design, let's jump directly to creating the app. UI can be improved later on.
 
+<b> Starting the Project </b>
+
+Open a direcotory on your system and create a new folder.
+run CMD ( In windows ) and type the command "flutter create your_app_name_here ". and execute it.
+use cd command to change your directory to the your_app_name_here directory and execute the command "code ."
+this will open your project in VS code.
